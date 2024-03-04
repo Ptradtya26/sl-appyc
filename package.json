@@ -1,0 +1,21 @@
+{
+  "name": "sl-appyc",
+  "version": "0.1.1",
+  "description": "parsing web application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ptradtya26/sl-appyc.git"
+  },
+  "keywords": ["web", "application", "parse"],
+  "author": "Ptradtya26",
+  "license": "MIT",
+  "dependencies": {
+    "sl-dbmaria": "^0.1.0",
+    "sl-appyc": "^0.1.0",
+    "uuid": "^8.3.2"
+  }
+}
